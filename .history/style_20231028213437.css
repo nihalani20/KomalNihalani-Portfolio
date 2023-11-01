@@ -1,0 +1,12 @@
+/* typography */
+body 
+{
+    font-family: 'Montserrat', sans-serif;
+}
+/* containers */
+
+.container 
+{
+   padding-left: 1rem;
+   padding-right: 1rem
+}

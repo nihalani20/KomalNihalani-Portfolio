@@ -1,0 +1,11 @@
+/* typography */
+body 
+{
+    font-family: 'Montserrat', sans-serif;
+}
+/* containers */
+
+.container 
+{
+   text-align: center;
+}

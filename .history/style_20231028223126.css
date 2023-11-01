@@ -1,0 +1,60 @@
+:root
+{
+    --primary-color: #4f46e5;
+    --gray: #F3F4F6;
+    --dark-gray: #6B7280;
+    
+}    
+
+
+
+/* typography */
+body 
+{
+    font-family: 'Montserrat', sans-serif;
+}
+/* containers */
+
+.container 
+/* this works on both container and if you put text align center it will work on both container */
+{
+   padding-left: 1rem;
+   padding-right: 1rem;
+}
+.container-center{
+    /* max-width: 600px; */
+    /* margin: auto; */
+    /* below we can also do this */
+    text-align: center;
+}
+
+/* links */
+.link
+{
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+}
+
+
+.primary-link
+{
+    color:white;
+    background-color: #655fd4;
+    border-radius: 0.5rem;
+    border: 1px solid ;
+    color:white;
+    
+}
+.secondary-link
+{
+
+    border-radius: 0.5rem;
+    border: 1px solid ;
+    color:#4f46e5;
+
+}
+hr{
+    margin: 2rem 0rem;
+}
+
+

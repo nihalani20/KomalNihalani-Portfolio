@@ -1,0 +1,22 @@
+/* typography */
+body 
+{
+    font-family: 'Montserrat', sans-serif;
+}
+/* containers */
+
+.container 
+/* this works on both container and if you put text align center it will work on both container */
+{
+   padding-left: 1rem;
+   padding-right: 1rem;
+}
+.container-center{
+    /* max-width: 600px; */
+    /* margin: auto; */
+    /* below we can also do this */
+    text-align: center;
+}
+
+/* links */
+
