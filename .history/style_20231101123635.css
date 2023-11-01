@@ -17,11 +17,7 @@ body
     font-family: 'Sometype Mono', monospace;
        
 }
-
-/* spaces */
-.padding-md{
-    padding:2rem;
-}
+hr
 
 
 /* containers */
@@ -120,7 +116,6 @@ hr{
 
 .hero{
     padding:2rem;
-    padding-top: 5rem;
 }
 .hero-img
 {

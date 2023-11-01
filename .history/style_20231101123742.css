@@ -19,8 +19,8 @@ body
 }
 
 /* spaces */
-.padding-md{
-    padding:2rem;
+.margin-md{
+    margin:2
 }
 
 
@@ -120,7 +120,6 @@ hr{
 
 .hero{
     padding:2rem;
-    padding-top: 5rem;
 }
 .hero-img
 {

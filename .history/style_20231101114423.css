@@ -18,11 +18,6 @@ body
        
 }
 
-/* spaces */
-.padding-md{
-    padding:2rem;
-}
-
 
 /* containers */
 .container 
@@ -120,7 +115,6 @@ hr{
 
 .hero{
     padding:2rem;
-    padding-top: 5rem;
 }
 .hero-img
 {
@@ -161,11 +155,11 @@ hr{
     text-align: center;
     color:white;
 }
-.footer .footer-header
+.footer.footer-header
 {
    
    font-weight: bold;
-   font-size: large;
+   font-size: ;
 }
 
 

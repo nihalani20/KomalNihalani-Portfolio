@@ -20,7 +20,7 @@ body
 
 /* spaces */
 .padding-md{
-    padding:2rem;
+    padding:;
 }
 
 
@@ -120,7 +120,6 @@ hr{
 
 .hero{
     padding:2rem;
-    padding-top: 5rem;
 }
 .hero-img
 {
