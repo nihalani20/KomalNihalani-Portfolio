@@ -4,19 +4,19 @@
 
 {
     /* --primary-color: #4f46e5; */
-    --primary-color:#756ff3; 
+    --primary-color:#756ff3;
     --gray: #F3F4F6;
     --dark-gray: #6B7280;
     
 }    
 
-@import url('https://fonts.googleapis.com/css2?family=Lexend+Exa:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,700&display=swap');
 
 /* typography */
 body 
 {
     
-    font-family: 'Lexend Exa', sans-serif;  
+       
 }
 
 /* spaces */
