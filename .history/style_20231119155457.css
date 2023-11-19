@@ -16,7 +16,7 @@
 body 
 {
     
-    font-family: 'Courier New', Courier, monospace ;  
+    font-family: 'Lexend Exa', sans-serif;  
 }
 
 /* spaces */
@@ -52,21 +52,22 @@ body
 .link-primary
 {
     max-width: 140px;
-    padding: 0.6rem 1.2rem;
+    padding: 0.6
     background-color:var(--primary-color);
     color:white;
     margin:1rem auto;
     border-radius: 2rem;
+    
+    
     
 }
 
 .link-secondary
 {
     color: var(--primary-color);
-    border-radius: 2rem;
+    border-radius: 0.5rem;
     border: 1px solid 
     var(--primary-color);
-    margin: 1rem auto;
     
 }
 

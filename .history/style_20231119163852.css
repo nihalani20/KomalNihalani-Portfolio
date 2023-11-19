@@ -16,7 +16,7 @@
 body 
 {
     
-    font-family: 'Courier New', Courier, monospace ;  
+    font-family: 'Montserrat','Courier New', Courier, monospace ;  
 }
 
 /* spaces */
@@ -63,10 +63,9 @@ body
 .link-secondary
 {
     color: var(--primary-color);
-    border-radius: 2rem;
+    border-radius: 0.5rem;
     border: 1px solid 
     var(--primary-color);
-    margin: 1rem auto;
     
 }
 
